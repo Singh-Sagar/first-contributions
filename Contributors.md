@@ -69,6 +69,7 @@ SahilDhavale
 - [Noel](https://github.com/joyles28) **+1**
 - [Khin Myint Myat Thu]  **Hello, I'm Khin from Myanmar**
 - [graycracker1](https://github.com/graycracker1) **First Contribution start of something new**
+- [Sagar Singh](https://github.com/Singh-Sagar) **The first step is take**
 - Ruchitankshi
 - [Kuzey Görgülü](https://github.com/KuzeyGorgulu)**Hey! Kuzey Görgülü from Turkey! A good way to start my career, huh?**
 - [Jaimin Suthar](https://github.com/jaimin78) **Hello, I'm Jaimin From India**
